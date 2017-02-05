@@ -7,4 +7,5 @@ package com.moosa.dagger2.util;
 
 public class Constants {
     public static String IMAGE_URL = "https://unsplash.it/600/300/?random";
+    public static String BASE_URL = "https://jsonplaceholder.typicode.com";
 }
